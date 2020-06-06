@@ -1,4 +1,4 @@
-# python-1
+# python_case-1
 目标:爬取豆瓣top250的电影
 
 
